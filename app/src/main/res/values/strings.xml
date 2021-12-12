@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bengkel</string>
+    <string name="bengkel">BENGKEL</string>
+    <string name="login">Login!</string>
+    <string name="login1">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="Lihat">Lihat</string>
+    <string name="form">Form</string>
+    <string name="panduan">Panduan</string>
+    <string name="engine">Engine</string>
+</resources>
